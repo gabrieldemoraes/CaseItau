@@ -1,9 +1,7 @@
 package CaseItau.CaseItau;
 
 import static org.junit.Assert.assertEquals;
-
 import org.junit.Test;
-
 
 public class ProcessMainFrameEventTest {
 
